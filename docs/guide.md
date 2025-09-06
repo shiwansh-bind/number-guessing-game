@@ -454,7 +454,7 @@ You've learned:
 
 ### 💬 **Need Help?**
 
-[Open an Issue](https://github.com/shiwansh-bind/number-guessing-game/issues) • [Join Discussion](https://github.com/shiwansh-bind/number-guessing-game/discussions)
+[Open an Issue](https://github.com/shiwansh-bind/number-guessing-game/issues/new?template=bug_report.md) • [Join Discussion](https://github.com/shiwansh-bind/number-guessing-game/discussions)
 
 </div>
 
